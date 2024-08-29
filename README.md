@@ -6,24 +6,28 @@
 <hr>
 
 <h4 align="center" >
-I am a dreamer and a fanatic of all digital things. I’ve been coding for the last 6 years and I love it.My current job role is Senior Front End Developer (React.Js)at MISSION.DEV which is located in Montréal, Quebec, Canada, where I am working in a product team. 
-
-I have worked on telecom projects, banking applications, government projects, and portals for well-known international companies like Erricson, Mobily, MTN, SALAM Telecom, and Optiva. 
-
-I have cleared all turing.com tests and coding challenges, and have cleared the mission.dev tests, interviews, and live coding challenges. 
+I am a multi-talented human with over 7+ years of experience in a wide range of tools and technologies with more focus on Front End Development using the TDD approach. I have developed a lot of web applications, done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I have developed telecom projects, banking applications, government projects, and portals for well-known international companies that impacted millions of lives. My current job role is Team Lead / Senior Front End Developer at Timestream Group which is located in Dubai - UAE 
 
 Previously, I have worked in different positions including Front End Dev, Team Lead, Back-end PHP Developer, and tech trainer.
 
 I have around 5.6 years of experience in Front End using ReactJs and other dependencies and have also developed a lot of websites and web applications using a combination of Front End and Back-End technologies. 
 
-I have developed many web applications and apart from that, I have been part of web design projects, office work, and as a freelancer. I have a deep understanding of web application design/web service security, web application, mobile application platform, databases, and layered base design patterns for responsive web and Mobile Applications.
+I have developed many web applications and apart from that, I have been part of web design projects, office work, and as a freelancer. I have a deep understanding of web application design/web service security, web applications, mobile application platforms, databases, and layered base design patterns for responsive web and Mobile Applications.
 
-With React.js I have used some great tools and other stuff like Redux, Firebase, Hooks, and other kinds of dependencies.
+I have also used major CMSs like WordPress, Shopify, and Wix and have done more than 500 projects using these CMSs.
 
-I have also used major CMSs like WordPress, Shopify, and Wix and have done more than 200 projects using these CMSs.
+I am familiar with Git, GitHub, GitLab, Trello, ClickUp Jira, Bitbucket, Confluence, and other kinds of tools. I am a level-2 seller on Fiverr.com have done more than 300 projects, and have got more than 170 Positive reviews. I am also a Top-rated seller on Upwork.
 
-I am familiar with git, GitHub, GitLab, Trello, Jira, and other kinds of things. 
-I am a level-2 seller on Fiverr.com and have done more than 200 projects, and have got more than 160 Positive reviews. I am also a Top-rated seller on Upwork.
+Platforms Used for Web App Development:
+JavaScript | TypeScript| React.js | Next.Js | GraphQL | Apollo Client | Material UI | tailwind CSS | AntD | Bootstrap | Redux | RTK Query | React Query | React Hooks | Context API| REST APIs | Jest | Enzyme
+
+Node.Js | Express.Js | MongoDB
+
+Docker | CI/CD | Git | Github | Bitbucket | Gitlab | AWS | Azure
+
+Confluence | JIRA | Clickup | Notion 
+
+ChatGPT | Codeium | You.com | Bard.google | Bing
 </h4>
 
   <h3 id="user-content--programming-languages" dir="auto"><a class="heading-link" href="#-programming-languages">👉 Platforms for Web Development<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
